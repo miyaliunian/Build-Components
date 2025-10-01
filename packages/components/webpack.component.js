@@ -41,6 +41,20 @@ module.exports = (componentName) => ({
         test: /\.css$/,
         use: [MiniCssExtractPlugin.loader, "css-loader"],
       },
+      {
+        test: /\.(png|jpe?g|gif|svg)$/i,
+        type: "asset/resource",
+        generator: {
+          filename: "[hash][ext][query]",
+        },
+      },
+      {
+        test: /\.(woff2?|eot|ttf|otf)$/i,
+        type: "asset/resource",
+        generator: {
+          filename: "[hash][ext][query]",
+        },
+      },
     ],
   },
   plugins: [

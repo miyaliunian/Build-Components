@@ -1,7 +1,8 @@
 import MyButton from "./components/Button";
 import MyDialog from "./components/Dialog";
+import MyCard from "./components/Card";
 
-const components = [MyButton, MyDialog];
+const components = [MyButton, MyDialog, MyCard];
 
 const install = function (Vue) {
   if (install.installed) return;
@@ -19,6 +20,7 @@ export default {
   install,
   MyButton,
   MyDialog,
+  MyCard,
 };
 
-export { MyButton, MyDialog };
+export { MyButton, MyDialog, MyCard };

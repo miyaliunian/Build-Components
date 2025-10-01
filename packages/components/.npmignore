@@ -1,0 +1,33 @@
+# 源文件和配置（发布时排除）
+src/
+build.js
+webpack.*.js
+.babelrc
+.gitignore
+
+# 开发依赖
+node_modules/
+*.log
+
+# 测试和文档
+test/
+tests/
+docs/
+*.md
+!README.md
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# 其他
+.eslintrc*
+.prettierrc*
+tsconfig.json
+
+
+
+

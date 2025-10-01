@@ -1,0 +1,219 @@
+{
+  "id": "1202989",
+  "name": "智慧医保",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "H5webApp 图标仓库",
+  "glyphs": [
+    {
+      "icon_id": "5387543",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "eafb",
+      "unicode_decimal": 60155
+    },
+    {
+      "icon_id": "40557809",
+      "name": "日历-面性",
+      "font_class": "rili-mianxing",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "40557820",
+      "name": "我的-线性",
+      "font_class": "wode-xianxing",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "40557821",
+      "name": "会员-线性",
+      "font_class": "huiyuan-xianxing",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "15838424",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "551841",
+      "name": "省略号",
+      "font_class": "more",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "11487977",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "915602",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "19954256",
+      "name": "收 藏",
+      "font_class": "shoucang1",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "287191",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "9828802",
+      "name": "滤镜",
+      "font_class": "ziyuan",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "15838561",
+      "name": "arrow-left-bold",
+      "font_class": "arrow-left-bold",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "15838566",
+      "name": "arrow-right-bold",
+      "font_class": "arrow-right-bold",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "151086",
+      "name": "心",
+      "font_class": "xin",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "18267909",
+      "name": "处方",
+      "font_class": "chufang",
+      "unicode": "e98c",
+      "unicode_decimal": 59788
+    },
+    {
+      "icon_id": "3101157",
+      "name": "对号",
+      "font_class": "duihao1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "12025955",
+      "name": "对号",
+      "font_class": "duihao",
+      "unicode": "e7a3",
+      "unicode_decimal": 59299
+    },
+    {
+      "icon_id": "18267904",
+      "name": "版权",
+      "font_class": "banquan",
+      "unicode": "e98b",
+      "unicode_decimal": 59787
+    },
+    {
+      "icon_id": "6187062",
+      "name": "右箭头",
+      "font_class": "arrow-backimg",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "8304415",
+      "name": "长箭头",
+      "font_class": "changjiantou-copy-copy",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "5849779",
+      "name": "右箭头",
+      "font_class": "iconfontyoujiantou-copy-copy-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6185438",
+      "name": "无数据",
+      "font_class": "wushuju",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "3213599",
+      "name": "刷新",
+      "font_class": "shuaxin-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12861759",
+      "name": "向下箭头",
+      "font_class": "down-arrow",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "11883352",
+      "name": "Icon - Keyboard Arrow - Down - Rounded",
+      "font_class": "Icon-KeyboardArrow-Down-Rounded",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "10574452",
+      "name": "iconfont-platform entrance",
+      "font_class": "downArrow",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "3685433",
+      "name": "下箭头",
+      "font_class": "up",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8738253",
+      "name": "返 回",
+      "font_class": "fanhui",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "5782152",
+      "name": "关 闭",
+      "font_class": "guanbi",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "2676665",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    }
+  ]
+}

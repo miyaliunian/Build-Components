@@ -1,0 +1,9 @@
+# 保持此目录被 Git 跟踪
+# 将图片资源放在这里
+
+# 建议的子目录结构：
+# - icons/     图标
+# - logos/     Logo
+# - backgrounds/  背景图
+# - avatars/   头像
+

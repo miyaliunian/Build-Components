@@ -1,0 +1,38 @@
+{
+  "name": "@build-compons/components",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "files": [
+    "lib",
+    "es",
+    "src"
+  ],
+  "sideEffects": [
+    "*.css",
+    "*.vue"
+  ],
+  "scripts": {
+    "build": "node build.js",
+    "analyze": "node analyze-bundle.js"
+  },
+  "dependencies": {
+    "@build-compons/common-assets": "workspace:^"
+  },
+  "peerDependencies": {
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.0",
+    "@babel/preset-env": "^7.22.0",
+    "babel-loader": "^9.1.0",
+    "css-loader": "^6.8.0",
+    "mini-css-extract-plugin": "^2.7.0",
+    "rimraf": "^5.0.0",
+    "style-loader": "^3.3.0",
+    "vue": "^2.6.14",
+    "vue-loader": "^15.10.0",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.88.0"
+  }
+}
